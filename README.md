@@ -20,8 +20,8 @@
 ---
 
 ## 🌎 Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-Mathias.Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathias-estudande/)](https://www.linkedin.com/in/mathias-estudande/)
-[![Gmail Badge](https://img.shields.io/badge/-mathiasaraujo508@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathiasaraujo508@gmail.com)](mailto:mathiasaraujo508@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/MathiasTAR)
----
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/mathias-estudande/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"/></a>
+  <a href="mathiasaraujo508@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"/></a>
+  <a href="https://mathias171.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="56" height="40" alt="itch logo"/></a>
+</div>
