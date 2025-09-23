@@ -6,8 +6,8 @@
 💻 Apaixonado por **jogos, programação e tecnologia**  
 🚀 Sempre aprendendo e compartilhando conhecimento  
 
-
 <br>
+
 
 
 ## 🚀 Tecnologias que uso
@@ -49,3 +49,8 @@
   <a href="mathiasaraujo508@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"/></a>
   <a href="https://mathias171.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="56" height="40" alt="itch logo"/></a>
 </div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MathiasTAR/MathiasTAR/output/snake.svg" alt="Snake animation" />
