@@ -5,9 +5,9 @@
 🎓 Estudante de **Engenharia de Software**  
 💻 Apaixonado por **jogos, programação e tecnologia**  
 🚀 Sempre aprendendo e compartilhando conhecimento  
+<br clear="both">
 
 
-<br>
 
 
 ## 🚀 Tecnologias que uso
