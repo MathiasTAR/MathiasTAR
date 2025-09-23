@@ -6,7 +6,7 @@
 💻 **Game Developer** & **Full-Stack Enthusiast**  
 🚀 Construindo jogos e aplicações. 
 
-[![wakatime](https://wakatime.com/badge/user/9b68c7c3-04a9-4b18-8f7f-5f2e4d5c6d2b.svg)](https://wakatime.com/@MathiasTAR)
+
 
 <br>
 
@@ -51,9 +51,6 @@
 - **🐸 Sapo** - Jogo 2D desenvolvido em Godot  
 - **🌐 Portfólio Pessoal** - Website com meus projetos
 
-## 📊 Métricas de Coding
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MathiasTAR&theme=dracula&layout=compact)](https://wakatime.com/@MathiasTAR)
 
 ## 🌐 Onde me encontrar
 
