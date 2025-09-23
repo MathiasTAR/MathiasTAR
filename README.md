@@ -5,35 +5,34 @@
 🎓 Estudante de **Engenharia de Software**  
 💻 Apaixonado por **jogos, programação e tecnologia**  
 🚀 Sempre aprendendo e compartilhando conhecimento  
-<br clear="both">
-
+<br>
+<br>
 
 
 
 ## 🚀 Tecnologias que uso
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" height="32" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="32" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="32" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="32" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="32" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="gamemakerstudio logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
 </div>
 
----
 
 ## 📈 Estatísticas do GitHub
 <div align="left">
@@ -41,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathiasTAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
 
 ## 🌎 Onde me encontrar
 <div align="left">
@@ -49,7 +47,6 @@
   <a href="mathiasaraujo508@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"/></a>
   <a href="https://mathias171.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="56" height="40" alt="itch logo"/></a>
 </div>
-
 
 <br clear="both">
 
