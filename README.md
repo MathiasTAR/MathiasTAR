@@ -37,11 +37,13 @@
 
 <div align="left">
   <a href="https://github.com/MathiasTAR/LibrisMobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasTAR&repo=LibrisMobile&theme=dracula" height="120" alt="LibrisMobile" /></a>
+  <a href="https://github.com/MathiasTAR/MegaMascote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasTAR&repo=MegaMascote&theme=dracula" height="120" alt="MegaMascote" /></a>
 </div>
 
 ## 🚧 Projetos em Andamento
 
 - **🎮 Mari Mania** - Jogo 2D desenvolvido em GameMaker 2
+- **🟣 MegaMascote** - Jogo 2D desenvolvido em GameMaker 2, para GameJam
 - **🐸 Sapo** - Jogo 2D desenvolvido em Godot  
 - **🌐 Portfólio Pessoal** - Website com meus projetos
 
