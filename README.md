@@ -7,6 +7,7 @@
 🚀 Construindo jogos e aplicações com foco na experiência do usuário
 
 <br>
+<br>
 
 ## 🛠️ Tecnologias & Ferramentas
 
