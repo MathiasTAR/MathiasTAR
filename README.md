@@ -36,7 +36,7 @@
 
 <div align="left">
   <a href="https://github.com/MathiasTAR/LibrisMobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasTAR&repo=LibrisMobile&theme=dracula" height="120" alt="LibrisMobile" /></a>
-  <a href="https://github.com/MathiasTAR/sapo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasTAR&repo=sapo&theme=dracula" height="120" alt="Sapo Game" /></a>
+  <a href="https://github.com/MathiasTAR/MegaMascote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MathiasTAR&repo=MegaMascote&theme=dracula" height="120" alt="MegaMascote" /></a>
 </div>
 
 ## 🚧 Projetos em Andamento
