@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Engenharia de Software**  
 💻 **Game Developer** & **Full-Stack Enthusiast**  
-🚀 Construindo jogos e aplicações com foco na experiência do usuário
+🚀 Construindo jogos e aplicações.
 
 <br>
 <br>
