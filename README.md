@@ -13,7 +13,7 @@
 
 ### 💻 Linguagens & Frameworks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,kotlin,react,html,css" height="30" alt="tecnologias frontend" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,kotlin,react,html,css" height="30" alt="tecnologias frontend" />
 </div>
 
 ### 🎮 Game Dev & IoT
