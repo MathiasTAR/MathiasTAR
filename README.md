@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Mathias!
+# 💻🥷 Olá, eu sou o Mathias!
 
 <img align="right" height="155" src="https://i.imgflip.com/65efzo.gif" />
 
